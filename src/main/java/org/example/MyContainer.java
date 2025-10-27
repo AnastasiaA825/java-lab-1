@@ -11,7 +11,7 @@ package org.example;
  * </ul>
  *
  * @param <T> тип элементов в контейнере
- * @author ШишкинаАнастасия Алексеевна
+ * @author Анастасия
  * @version 1.0
  * @see java.util.List
  */
